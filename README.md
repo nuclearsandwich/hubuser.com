@@ -17,6 +17,12 @@ nuclearsandwich@hubuser.com
 Now add this email address to the list of emails attached to your account on
 GitHub.com and just don't verify it.
 
+Caveats and Addendums
+---------------------
+
+You can't use this email for GitHub Pages since pages only build for verified
+email addresses.
+
 Disclaimer
 ----------
 
